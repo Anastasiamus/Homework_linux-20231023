@@ -1,0 +1,14 @@
+nano taskSobjanina.sh
+#!/bin/bash
+for run in{1..10}
+do 
+touch /opt/(date+"%d-%m-%Y")
+*/15 * * * *
+done
+chmod 744 taskSobjanina.sh
+
+
+
+
+
+
